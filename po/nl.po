@@ -38,7 +38,7 @@ msgid "Forecasts days"
 msgstr "Te voorspellen dagen"
 
 #: src/e_mod_config.c:109
-c-format
+#, c-format
 msgid "%2.0f days"
 msgstr "%2.0f dagen"
 
