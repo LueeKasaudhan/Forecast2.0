@@ -1,3 +1,9 @@
+moksha-module-forecasts (20201123bodhi1-1) bionic; urgency=medium
+
+  * Gadget text scale fit
+
+ -- Robert Wiley <ylee@bodhilinux.com>  Mon, 23 Nov 2020 07:44:33 -0400
+
 moksha-module-forecasts (20200713bodhi1-1) bionic; urgency=medium
 
   * Better shelf aligning
