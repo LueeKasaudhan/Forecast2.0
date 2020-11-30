@@ -130,6 +130,21 @@ collections {
            }
            }
            description {
+           state: "hidden" 0.0;
+           inherit: "default" 0.0;
+                   rel1 {
+                         relative: 0.0 0.0;
+                         offset:   0   0;
+                         to: "icon";
+                   }
+                   rel2 {
+                         relative: 1.0 1.0;
+                         offset:   -1  -1;
+                         to:       "icon";
+                   }
+                   text.align: 0.5 1.0;
+           }
+           description {
            state: "float" 0.0;
            inherit: "default" 0.0;
                    rel1 {
@@ -659,6 +674,7 @@ collections {
            source: "e";
            action: STATE_SET "hidden" 0.0;
            target: "e.text.description";
+           target: "e.text.temp";
        }
        program {
            name: "text_show_default";
@@ -666,6 +682,7 @@ collections {
            source: "e";
            action: STATE_SET "default" 0.0;
            target: "e.text.description";
+           target: "e.text.temp";
        }
        program {
            name: "text_show_float";
@@ -673,6 +690,7 @@ collections {
            source: "e";
            action: STATE_SET "float" 0.0;
            target: "e.text.description";
+           target: "e.text.temp";
        } 
        program {
            name: "float";

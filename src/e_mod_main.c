@@ -670,9 +670,9 @@ _fc_display_set(Instance *inst, Eina_Bool ok __UNUSED__)
    else
      if (inst->gcc->gadcon->orient == E_GADCON_ORIENT_FLOAT)
         edje_object_signal_emit(inst->forecasts_obj, "e,state,description,show,float", "e");
-     else   
-        edje_object_signal_emit(inst->forecasts_obj, "e,state,description,show,def", "e"); 
- 
+     else
+        edje_object_signal_emit(inst->forecasts_obj, "e,state,description,show,default", "e");
+
    if (inst->gcc->gadcon->orient == E_GADCON_ORIENT_FLOAT)
    snprintf(buf, sizeof(buf), "%d °%c", inst->condition.temp, inst->units.temp);
    else 
