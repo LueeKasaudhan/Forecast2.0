@@ -65,23 +65,23 @@ msgstr "Русский"
 
 #: src/e_mod_config.c:126
 msgid "Weather location"
-msgstr ""
+msgstr "Погода в регионе"
 
 #: src/e_mod_config.c:128
 msgid "City name (empty = local) "
-msgstr ""
+msgstr "Город (пусто = местный) "
 
 #: src/e_mod_config.c:134
 msgid "Custom location label "
-msgstr ""
+msgstr "Описание местоположения "
 
 #: src/e_mod_config.c:142
 msgid "Language support"
-msgstr ""
+msgstr "Языковая поддержка"
 
 #: src/e_mod_config.c:144
 msgid "Language code (e.g. sk)    "
-msgstr ""
+msgstr "Код языка (например, ru)    "
 
 #: src/e_mod_main.c:270
 msgid "Forecasts"
@@ -95,11 +95,11 @@ msgstr "Настройки элемента"
 #: src/e_mod_main.c:1212
 #, c-format
 msgid "%s: Current Conditions"
-msgstr ""
+msgstr "%s: на данный момент"
 
 #: src/e_mod_main.c:1226
 msgid "Feels Like:"
-msgstr ""
+msgstr "Ощущается как:"
 
 #: src/e_mod_main.c:1232
 #, fuzzy
@@ -118,7 +118,7 @@ msgstr "Влажность"
 
 #: src/e_mod_main.c:1250
 msgid "Precipitation:"
-msgstr ""
+msgstr "Осадки:"
 
 #: src/e_mod_main.c:1256
 #, fuzzy
@@ -137,11 +137,11 @@ msgstr "Восход / Закат"
 
 #: src/e_mod_main.c:1289
 msgid "Today"
-msgstr ""
+msgstr "Сегодня"
 
 #: src/e_mod_main.c:1291
 msgid "Tomorrow"
-msgstr ""
+msgstr "Завтра"
 
 #: src/e_mod_main.c:1299
 msgid "High"
