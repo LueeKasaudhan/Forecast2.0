@@ -500,7 +500,7 @@ _cb_fc_check(void *data)
    Instance *inst = data;
    Ecore_Con_Url *url_con;
    char url[1114];
-   char forecast[1024];
+   char forecast[512];
    char lang_buf[256] = "";
    char *temp = NULL;
 
