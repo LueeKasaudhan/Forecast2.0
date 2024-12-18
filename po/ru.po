@@ -1,14 +1,14 @@
 # Russian translation for the Forecasts module.
 # This file is distributed under the same license as the forecasts package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+# Lucky <lucky1.data@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: forecasts\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-16 15:31-0500\n"
-"PO-Revision-Date: 2009-06-03 08:36+0000\n"
-"Last-Translator: Lucky <lucky1.data@gmail.com>\n"
+"PO-Revision-Date: 2024-12-18 10:00+0300\n"
+"Last-Translator: R0bur <robursw@gmail.com>\n"
 "Language-Team: Russian <ru@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
@@ -16,9 +16,8 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: src/e_mod_config.c:46
-#, fuzzy
 msgid "Forecasts Settings"
-msgstr "Сводка погоды"
+msgstr "Настройки прогноза"
 
 #: src/e_mod_config.c:100
 msgid "Display Settings"
@@ -34,9 +33,8 @@ msgid "%2.0f minutes"
 msgstr "%2.0f минут(ы)"
 
 #: src/e_mod_config.c:106
-#, fuzzy
 msgid "Forecasts days"
-msgstr "Сводка погоды"
+msgstr "Дни прогноза"
 
 #: src/e_mod_config.c:108
 #, fuzzy, c-format
@@ -61,7 +59,7 @@ msgstr "Метрические"
 
 #: src/e_mod_config.c:121
 msgid "English"
-msgstr "Русский"
+msgstr "Английские"
 
 #: src/e_mod_config.c:125
 msgid "Weather location"
@@ -88,9 +86,8 @@ msgid "Forecasts"
 msgstr "Сводка погоды"
 
 #: src/e_mod_main.c:210
-#, fuzzy
 msgid "Settings"
-msgstr "Настройки элемента"
+msgstr "Настройки"
 
 #: src/e_mod_main.c:755 src/e_mod_main.c:757
 #, c-format
@@ -102,38 +99,32 @@ msgid "Feels Like:"
 msgstr "Ощущается как:"
 
 #: src/e_mod_main.c:777
-#, fuzzy
 msgid "Wind Chill:"
-msgstr "Температура ветра"
+msgstr "Температура ветра:"
 
 #: src/e_mod_main.c:783
-#, fuzzy
 msgid "Wind Speed:"
-msgstr "Скорость ветра"
+msgstr "Скорость ветра:"
 
 #: src/e_mod_main.c:789
-#, fuzzy
 msgid "Humidity:"
-msgstr "Влажность"
+msgstr "Влажность:"
 
 #: src/e_mod_main.c:795
 msgid "Precipitation:"
 msgstr "Осадки:"
 
 #: src/e_mod_main.c:801
-#, fuzzy
 msgid "Visibility:"
-msgstr "Видимость"
+msgstr "Видимость:"
 
 #: src/e_mod_main.c:807
-#, fuzzy
 msgid "Pressure:"
-msgstr "Давление"
+msgstr "Давление:"
 
 #: src/e_mod_main.c:816
-#, fuzzy
 msgid "Sunrise / Sunset: "
-msgstr "Восход / Закат"
+msgstr "Восход / Закат:"
 
 #: src/e_mod_main.c:843
 msgid "Today"
