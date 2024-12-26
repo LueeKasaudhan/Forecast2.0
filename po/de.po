@@ -20,7 +20,7 @@ msgstr ""
 #: src/e_mod_config.c:46
 #, fuzzy
 msgid "Forecasts Settings"
-msgstr "Wettervorhersagen"
+msgstr "Wettervorhersage-Einstellungen"
 
 #: src/e_mod_config.c:100
 msgid "Display Settings"
@@ -38,7 +38,7 @@ msgstr "%2.0f Minuten"
 #: src/e_mod_config.c:106
 #, fuzzy
 msgid "Forecasts days"
-msgstr "Wettervorhersagen"
+msgstr "Wettervorhersagen Tage"
 
 #: src/e_mod_config.c:108
 #, fuzzy, c-format
@@ -68,41 +68,41 @@ msgstr "Englisch"
 #: src/e_mod_config.c:125
 #, fuzzy
 msgid "Weather location"
-msgstr "Yahoo Wettervorhersage Code"
+msgstr "Wetter für Ort"
 
 #: src/e_mod_config.c:127
 msgid "City name (empty = local) "
-msgstr ""
+msgstr "Stadtname (leer = lokal) "
 
 #: src/e_mod_config.c:133
 msgid "Custom location label "
-msgstr ""
+msgstr "Eigene Ortsbezeichnung "
 
 #: src/e_mod_config.c:141
 msgid "Language support"
-msgstr ""
+msgstr "Sprachenunterstützung"
 
 #: src/e_mod_config.c:143
 msgid "Language code (e.g. sk)    "
-msgstr ""
+msgstr "Sprachcode (z.B. de)    "
 
 #: src/e_mod_main.c:168
 msgid "Forecasts"
-msgstr "Wettervorhersagen"
+msgstr "Vorhersagen"
 
 #: src/e_mod_main.c:210
 #, fuzzy
 msgid "Settings"
-msgstr "Einheiteneinstellungen"
+msgstr "Einstellungen"
 
 #: src/e_mod_main.c:755 src/e_mod_main.c:757
 #, c-format
 msgid "%s: Current Conditions"
-msgstr ""
+msgstr "%s: Momentane Wetterlage"
 
 #: src/e_mod_main.c:771
 msgid "Feels Like:"
-msgstr ""
+msgstr "Gefühlt:"
 
 #: src/e_mod_main.c:777
 #, fuzzy
@@ -121,30 +121,30 @@ msgstr "Luftfeuchtigkeit"
 
 #: src/e_mod_main.c:795
 msgid "Precipitation:"
-msgstr ""
+msgstr "Niederschlag:"
 
 #: src/e_mod_main.c:801
 #, fuzzy
 msgid "Visibility:"
-msgstr "Sicht"
+msgstr "Sicht:"
 
 #: src/e_mod_main.c:807
 #, fuzzy
 msgid "Pressure:"
-msgstr "Luftdruck"
+msgstr "Luftdruck:"
 
 #: src/e_mod_main.c:816
 #, fuzzy
 msgid "Sunrise / Sunset: "
-msgstr "Sonnenaufgang / Sonnenuntergang"
+msgstr "Sonnenaufgang / -untergang"
 
 #: src/e_mod_main.c:843
 msgid "Today"
-msgstr ""
+msgstr "Heute"
 
 #: src/e_mod_main.c:845
 msgid "Tomorrow"
-msgstr ""
+msgstr "Morgen"
 
 #: src/e_mod_main.c:854
 msgid "High"
@@ -156,7 +156,7 @@ msgstr "Niedrig"
 
 #, fuzzy
 #~ msgid "To find the code, go to:"
-#~ msgstr "Um den Code für Ihre Region zu finden, gehen Sie auf"
+#~ msgstr "Der Code kann hier gefunden werden:"
 
 #~ msgid "Rising"
 #~ msgstr "Steigend"
@@ -169,13 +169,13 @@ msgstr "Niedrig"
 
 #, fuzzy
 #~ msgid "Forecasts Code/US Zip Code"
-#~ msgstr "Yahoo Wettervorhersage Code/US Zip Code"
+#~ msgstr "Wettervorhersage Code/US Zip Code"
 
 #~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, suchen Sie Ihre Region und entnehmen den Code der URL"
+#~ msgstr "%s, eigene Region suchen und den Code der URL entnehmen"
 
 #~ msgid "Forecasts Configuration"
-#~ msgstr "Vorhersageeinstellungen"
+#~ msgstr "Vorhersagekonfiguration"
 
 #~ msgid "Configuration"
-#~ msgstr "Einstellungen"
+#~ msgstr "Konfiguration"
