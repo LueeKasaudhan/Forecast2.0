@@ -1,15 +1,15 @@
-# Czech translation of the Forecasts module.
-# This file is distributed under the same license as the forecasts module.
+# Czech translation.
+# This file is put in the public domain.
+# quaker66@gmail.com
 # Vít Pelčák <vit@pelcak.org>, 2011.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
-"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"Project-Id-Version: Weather\n"
+"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2020-06-30 15:26+0200\n"
 "PO-Revision-Date: 2011-10-09 13:56+0200\n"
-"Last-Translator: Vít Pelčák <vit@pelcak.org>\n"
-"Language-Team: Czech <kde-i18n-doc@kde.org>\n"
+"Last-Translator: Stefan Uram <thewaiter@centrum.sk>\n"
+"Language-Team: Slovak <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,151 +27,119 @@ msgstr "Nastavení zobrazení"
 
 #: src/e_mod_config.c:101
 msgid "Poll Time"
-msgstr "Aktualizace počasí každých.."
+msgstr "Čas obnovy"
 
 #: src/e_mod_config.c:103
 #, c-format
 msgid "%2.0f minutes"
 msgstr "%2.0f minut"
 
-#: src/e_mod_config.c:106
-#, fuzzy
+#: src/e_mod_config.c:107
 msgid "Forecasts days"
 msgstr "Předpověď počasí"
 
-#: src/e_mod_config.c:108
-#, fuzzy, c-format
+#: src/e_mod_config.c:109
+#, c-format
 msgid "%2.0f days"
 msgstr "%2.0f minut"
 
-#: src/e_mod_config.c:111
+#: src/e_mod_config.c:112
 msgid "Show Description"
 msgstr "Zobrazit popis"
 
-#: src/e_mod_config.c:113
+#: src/e_mod_config.c:114
 msgid "Popup on mouse over"
 msgstr "Zobrazit více, když je kurzor nad gadgetem"
 
-#: src/e_mod_config.c:117
+#: src/e_mod_config.c:118
 msgid "Unit Settings"
 msgstr "Nastavení jednotek"
 
-#: src/e_mod_config.c:119
+#: src/e_mod_config.c:120
 msgid "Metric"
 msgstr "Metrické"
 
-#: src/e_mod_config.c:121
+#: src/e_mod_config.c:122
 msgid "English"
 msgstr "Anglické"
 
-#: src/e_mod_config.c:125
-#, fuzzy
+#: src/e_mod_config.c:126
 msgid "Weather location"
-msgstr "Kód předpovědi Weather.com"
+msgstr "Lokace předpovědi"
 
-#: src/e_mod_config.c:127
+#: src/e_mod_config.c:128
 msgid "City name (empty = local) "
-msgstr ""
+msgstr "Město (prázdné = lokální) "
 
-#: src/e_mod_config.c:133
+#: src/e_mod_config.c:134
 msgid "Custom location label "
-msgstr ""
+msgstr "Volitelný název města "
 
-#: src/e_mod_config.c:141
+#: src/e_mod_config.c:142
 msgid "Language support"
-msgstr ""
+msgstr "Jazyková podpora"
 
-#: src/e_mod_config.c:143
+#: src/e_mod_config.c:144
 msgid "Language code (e.g. sk)    "
-msgstr ""
+msgstr "Kód jazyka (např. cs)    "
 
-#: src/e_mod_main.c:168
+#: src/e_mod_main.c:270
 msgid "Forecasts"
 msgstr "Předpověď počasí"
 
-#: src/e_mod_main.c:210
+#: src/e_mod_main.c:312
 msgid "Settings"
 msgstr "Nastavení"
 
-#: src/e_mod_main.c:755 src/e_mod_main.c:757
+#: src/e_mod_main.c:1212
 #, c-format
 msgid "%s: Current Conditions"
 msgstr "%s: Aktuální podmínky"
 
-#: src/e_mod_main.c:771
+#: src/e_mod_main.c:1226
 msgid "Feels Like:"
-msgstr ""
+msgstr "Pocitová teplota:"
 
-#: src/e_mod_main.c:777
+#: src/e_mod_main.c:1232
 msgid "Wind Chill:"
-msgstr ""
+msgstr "Chladivost větru:"
 
-#: src/e_mod_main.c:783
-#, fuzzy
+#: src/e_mod_main.c:1238
 msgid "Wind Speed:"
-msgstr "Rychlost větru"
+msgstr "Rychlost větru:"
 
-#: src/e_mod_main.c:789
-#, fuzzy
+#: src/e_mod_main.c:1244
 msgid "Humidity:"
-msgstr "Vlhkost"
+msgstr "Vlhkost:"
 
-#: src/e_mod_main.c:795
+#: src/e_mod_main.c:1250
 msgid "Precipitation:"
-msgstr ""
+msgstr "Úhrn srážek:"
 
-#: src/e_mod_main.c:801
-#, fuzzy
+#: src/e_mod_main.c:1256
 msgid "Visibility:"
 msgstr "Viditelnost"
 
-#: src/e_mod_main.c:807
-#, fuzzy
+#: src/e_mod_main.c:1262
 msgid "Pressure:"
-msgstr "Tlak"
+msgstr "Tlak:"
 
-#: src/e_mod_main.c:816
-#, fuzzy
+#: src/e_mod_main.c:1271
 msgid "Sunrise / Sunset: "
-msgstr "Východ / Západ"
+msgstr "Východ / Západ slunce: "
 
-#: src/e_mod_main.c:843
+#: src/e_mod_main.c:1289
 msgid "Today"
 msgstr "Dnes"
 
-#: src/e_mod_main.c:845
+#: src/e_mod_main.c:1291
 msgid "Tomorrow"
 msgstr "Zítra"
 
-#: src/e_mod_main.c:854
+#: src/e_mod_main.c:1299
 msgid "High"
 msgstr "Nejvyšší"
 
-#: src/e_mod_main.c:865
+#: src/e_mod_main.c:1310
 msgid "Low"
 msgstr "Nejnižší"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Pokud chcete kód vaší oblasti, jděte na:"
-
-#~ msgid "Rising"
-#~ msgstr "Východ slunce"
-
-#~ msgid "Falling"
-#~ msgstr "Západ slunce"
-
-#~ msgid "Steady"
-#~ msgstr "Vyrovnaný"
-
-#~ msgid "Forecasts Code/US Zip Code"
-#~ msgstr "Kód předpovědi / US Zip kód"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, najděte vaši oblast a podívejte se na URL"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Nastavení předpovědi počasí"
-
-#~ msgid "Configuration"
-#~ msgstr "Konfigurace"
