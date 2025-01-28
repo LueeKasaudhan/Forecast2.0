@@ -1,12 +1,13 @@
 # Japanese translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
+# This file is put in the public domain.
+#
 # Yasufumi Haga <yasufumi.haga@nifty.com>, 2006-2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2008-11-22 04:19+0000\n"
 "Last-Translator: Yasufumi Haga <yasufumi.haga@nifty.com>\n"
 "Language-Team: none\n"
@@ -152,53 +153,3 @@ msgstr "高"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "低"
-
-#, fuzzy
-#~ msgid "Code"
-#~ msgstr "ICAO コード"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "自分の居住地のコードは以下のサイトに行き:"
-
-#~ msgid "Rising"
-#~ msgstr "上昇"
-
-#~ msgid "Falling"
-#~ msgstr "下降"
-
-#~ msgid "Steady"
-#~ msgstr "横ばい"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "forecasts の設定"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "Yahoo 天気予報コード／米国郵便番号"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, 自分の居住地を探して、そのURLを見てください"
-
-#~ msgid "Configuration"
-#~ msgstr "設定"
-
-#~ msgid "Simple"
-#~ msgstr "簡略"
-
-#~ msgid "Detailed"
-#~ msgstr "詳細"
-
-#~ msgid "Celsius"
-#~ msgstr "摂氏"
-
-#~ msgid "Farenheit"
-#~ msgstr "華氏"
-
-#~ msgid "Get your ICAO code at:"
-#~ msgstr "指定 ICAO コードの入手先"
-
-#~ msgid "Enlightenment Weather Module"
-#~ msgstr "Enlightenment weather モジュール"
-
-#~ msgid "A weather forecast module for Enlightenment"
-#~ msgstr "Enlightenment 用天気予報モジュール"

@@ -1,12 +1,13 @@
 # Arabic translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts module.
+# This file is put in the public domain.
+#
 # sameeer hussain <almusalimalmusalimah> 2011.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forcasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2012-01-24 20:44+0300\n"
 "Last-Translator: سمير حسين <almusalimalmusalimah@gmail.com>\n"
 "Language-Team: Arabic <almusalimalmusalimah@gmail.com>\n"
@@ -152,30 +153,3 @@ msgstr "عالي"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "منخفض"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "للعثور على رمز المنطقة الخاصة بك، اذهب إلى :"
-
-#~ msgid "Rising"
-#~ msgstr "الشروق"
-
-#~ msgid "Falling"
-#~ msgstr "الغروب"
-
-#~ msgid "Steady"
-#~ msgstr "هادئ"
-
-#, fuzzy
-#~| msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgid "Forecasts Code/US Zip Code"
-#~ msgstr "تشفير التوقعات الرمز/الولايات المتحدة "
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s، اعثر على منطقتك، و الق نظرة على العنوان"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "إعدادات التنبؤات"
-
-#~ msgid "Configuration"
-#~ msgstr "الإعدادات"

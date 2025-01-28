@@ -1,12 +1,13 @@
-# Finnish translation of the Forecasts module.
+# Finnish translation for the Forecasts module.
 # This file is put in the public domain.
+#
 # Jani väyrynen <janivayrynen@gmail.com>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2008-11-22 04:19+0000\n"
 "Last-Translator: Jani väyrynen <Unknown>\n"
 "Language-Team: Finnish <janivayrynen@gmail.com>\n"
@@ -150,31 +151,3 @@ msgstr "Korkea"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Matala"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Löytääksesi alueesi koodin, mene:"
-
-#~ msgid "Rising"
-#~ msgstr "Nousee"
-
-#~ msgid "Falling"
-#~ msgstr "Laskee"
-
-#~ msgid "Steady"
-#~ msgstr "Vakaa"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Sääennusteen asetukset"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "Yahoo Forecasts -koodi"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "Yahoo Forecasts -koodi/Postiosoite"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, etsi alueesi ja katso URL:ia"
-
-#~ msgid "Configuration"
-#~ msgstr "Asetukset"

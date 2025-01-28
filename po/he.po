@@ -1,12 +1,13 @@
 # Hebrew translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts module.
+# This file is put in the public domain.
+#
 # Yaron <sh.yaron@gmail.com>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2008-11-29 21:44+0000\n"
 "Last-Translator: Yaron <sh.yaron@gmail.com>\n"
 "Language-Team: Hebrew <he@li.org>\n"
@@ -150,31 +151,3 @@ msgstr "גבוהה"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "נמוכה"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "על מנת למצוא את הקוד התואם לאזורך, פנה אל:"
-
-#~ msgid "Rising"
-#~ msgstr "מתחזקת"
-
-#~ msgid "Falling"
-#~ msgstr "נחלשת"
-
-#~ msgid "Steady"
-#~ msgstr "יציבה"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "תצורת התחזיות"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "קוד התחזית של יאהו"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "קוד התחזיות של יאהו/קוד המיקוד האמריקאי"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, מצא את האזור שלך, והבט בכתובת"
-
-#~ msgid "Configuration"
-#~ msgstr "תצורה"

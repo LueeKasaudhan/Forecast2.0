@@ -1,12 +1,13 @@
-# Hungarian translation of the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
+# Hungarian translation for the Forecasts module.
+# This file is put in the public domain.
+#
 # Lisovszki  <lisovszki@gmail.com>, 2008-2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2008-11-22 05:08+0000\n"
 "Last-Translator: lisovszki <lisovszki@gmail.com>\n"
 "Language-Team: hungarian <hu@li.org>\n"
@@ -150,31 +151,3 @@ msgstr "Maximum"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Minimum"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Hogy megtaláld a területi kódodat, menj ide:"
-
-#~ msgid "Rising"
-#~ msgstr "Napsütés"
-
-#~ msgid "Falling"
-#~ msgstr "Eső"
-
-#~ msgid "Steady"
-#~ msgstr "Stabil"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Előrejelzés beállításai"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "Yahoo előrejelzés kód"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "Yahoo előrejelzés kód/USA Zip kód"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, keresd meg a területed, és néz meg az URL-t"
-
-#~ msgid "Configuration"
-#~ msgstr "Beállítás"

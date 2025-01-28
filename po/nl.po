@@ -1,13 +1,14 @@
 # Dutch translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
+# This file is put in the public domain.
+#
 # Heimen Stoffels <vistausss@gmail.com>, 2009.
 # Pjotr <pjotrvertaalt@gmail.com>, 2020.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2011-09-04 16:01+0100\n"
 "Last-Translator: Pjotr <pjotrvertaalt@gmail.com>\n"
 "Language-Team: Dutch\n"
@@ -142,27 +143,3 @@ msgstr "Hoog"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Laag"
-
-#~ msgid "To find the code, go to:"
-#~ msgstr "Om de code te vinden, ga naar:"
-
-#~ msgid "Rising"
-#~ msgstr "Stijgend"
-
-#~ msgid "Falling"
-#~ msgstr "Dalend"
-
-#~ msgid "Steady"
-#~ msgstr "Constant"
-
-#~ msgid "Forecasts Code/US Zip Code"
-#~ msgstr "Voorspellingscode/Amerikaanse postcode"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, zoek uw regio en kijk naar het webadres"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Instellingen van weersvoorspellingen"
-
-#~ msgid "Configuration"
-#~ msgstr "Instellingen"

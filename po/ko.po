@@ -1,12 +1,13 @@
-# Korean translation of the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
+# Korean translation for the Forecasts module.
+# This file is put in the public domain.
+#
 # Dongsik Lee. <zecksmaster@gmail.com>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2009-01-18 19:18+0000\n"
 "Last-Translator: Aron <Unknown>\n"
 "Language-Team: Korea <ko@li.org>\n"
@@ -150,31 +151,3 @@ msgstr "최고"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "최저"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "해당 지역의 코드를 찾을려면"
-
-#~ msgid "Rising"
-#~ msgstr "상승"
-
-#~ msgid "Falling"
-#~ msgstr "하강"
-
-#~ msgid "Steady"
-#~ msgstr "안정"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "일기예보 설정"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "야후 일기예보 코드"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "야후 일기예보 코드/US Zip Code"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s로 가서 지역을 검색하면 URL에 코드가 있습니다."
-
-#~ msgid "Configuration"
-#~ msgstr "설정"

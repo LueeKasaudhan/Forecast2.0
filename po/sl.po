@@ -1,12 +1,13 @@
-# Slovenian translation of the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
+# Slovenian translation for the Forecasts module.
+# This file is put in the public domain.
+#
 # r1to <renato.rener@gmail.com>, 2011.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2011-02-22 08:49+0100\n"
 "Last-Translator: r1to <renato.rener@gmail.com>\n"
 "Language-Team: Slovenian <sl@li.org>\n"
@@ -152,22 +153,3 @@ msgstr "Visok"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Nizek"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Šifro tvojega območja najdi na:"
-
-#~ msgid "Rising"
-#~ msgstr "Narašča"
-
-#~ msgid "Falling"
-#~ msgstr "Pada"
-
-#~ msgid "Steady"
-#~ msgstr "Stabilen"
-
-#~ msgid "Forecasts Code/US Zip Code"
-#~ msgstr "Napovedi - šifra/US·Zip·št"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s,·najdi tvoje območje,·in poglej na URL"

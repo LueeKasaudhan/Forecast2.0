@@ -1,12 +1,13 @@
 # German translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts module.
+# This file is put in the public domain.
+#
 # Ansgar Burchardt <Unknown>, 2008.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2010-07-16 11:19+0100\n"
 "Last-Translator: AlexAnteMachina <alexander-jung@t-online.de>\n"
 "Language-Team: German <de@li.org>\n"
@@ -153,29 +154,3 @@ msgstr "Hoch"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Niedrig"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Der Code kann hier gefunden werden:"
-
-#~ msgid "Rising"
-#~ msgstr "Steigend"
-
-#~ msgid "Falling"
-#~ msgstr "Fallend"
-
-#~ msgid "Steady"
-#~ msgstr "beständig"
-
-#, fuzzy
-#~ msgid "Forecasts Code/US Zip Code"
-#~ msgstr "Wettervorhersage Code/US Zip Code"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, eigene Region suchen und den Code der URL entnehmen"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Vorhersagekonfiguration"
-
-#~ msgid "Configuration"
-#~ msgstr "Konfiguration"

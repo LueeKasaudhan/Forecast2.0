@@ -1,15 +1,16 @@
-# Slovak translation for enlightenment
-# This file is distributed under the same license as the enlightenment package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2009.
+# Slovakian translation for the Forecasts module.
+# This file is put in the public domain.
+#
+# Stefan Uram <thewaiter@centrum.sk>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: enlightenment\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2020-06-30 15:26+0200\n"
+"Project-Id-Version: forecast\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2009-03-24 15:30+0000\n"
 "Last-Translator: Stefan Uram <thewaiter@centrum.sk>\n"
-"Language-Team: Slovak <sk@li.org>\n"
+"Language-Team: Slovakian <sk@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"

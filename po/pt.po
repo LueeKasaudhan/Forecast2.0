@@ -1,13 +1,14 @@
 # Portuguese translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
+# This file is put in the public domain.
+#
 # Sérgio Marques <smarquespt@gmail.com>, 2010.
 # Hugo Carvalho <hugokarvalho@hotmail.com>, 2021, 2022.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2022-09-28 13:05+0100\n"
 "Last-Translator: Hugo Carvalho <hugokarvalho@hotmail.com>\n"
 "Language-Team: Portuguese <hugokarvalho@hotmail.com>\n"
@@ -144,22 +145,3 @@ msgstr "Máxima"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Mínima"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Para encontrar o código da sua área vá a:"
-
-#~ msgid "Rising"
-#~ msgstr "A subir"
-
-#~ msgid "Falling"
-#~ msgstr "A descer"
-
-#~ msgid "Steady"
-#~ msgstr "Estável"
-
-#~ msgid "Forecasts Code/US Zip Code"
-#~ msgstr "Código das previsões"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, encontre a sua área e veja a URL"

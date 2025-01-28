@@ -1,13 +1,14 @@
-# Swedish translation of the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
+# Swedish translation for the Forecasts module.
+# This file is put in the public domain.
+#
 # Anders Trobäck <forecasts@troback.com>, 2006.
 # Daniel Nylander <yeager@ubuntu.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2009-01-10 12:15+0000\n"
 "Last-Translator: Daniel Nylander <yeager@ubuntu.com>\n"
 "Language-Team: Swedish\n"
@@ -152,62 +153,3 @@ msgstr "Hög"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Låg"
-
-#, fuzzy
-#~ msgid "Code"
-#~ msgstr "ICAO kod"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Gå till följande sida för att hitta koden för ditt område:"
-
-#~ msgid "Rising"
-#~ msgstr "Soluppgång"
-
-#~ msgid "Falling"
-#~ msgstr "Solnedgång"
-
-#~ msgid "Steady"
-#~ msgstr "Ihållande"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Prognoskonfiguration"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "Kod för Yahoo Forecast"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "Kod för Yahoo Forecast/Amerikanskt postnummer"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s. Hitta ditt område och besök URL:en"
-
-#~ msgid "Configuration"
-#~ msgstr "Konfiguration"
-
-#~ msgid "Simple"
-#~ msgstr "Enkel"
-
-#~ msgid "Detailed"
-#~ msgstr "Detaljerad"
-
-#~ msgid "Degree Settings"
-#~ msgstr "Grader"
-
-#~ msgid "Celsius"
-#~ msgstr "Celsius"
-
-#~ msgid "Farenheit"
-#~ msgstr "Farenheit"
-
-#~ msgid "Get your ICAO code at:"
-#~ msgstr "Hitta din ICAO kod på:"
-
-#~ msgid "Enlightenment Weather Module"
-#~ msgstr "Enlightenment väder modul"
-
-#~ msgid "A weather forecast module for Enlightenment"
-#~ msgstr "En väderleksmodul för Enlightenment"
-
-#~ msgid "http://www.weather.gov/tg/siteloc.shtml"
-#~ msgstr "http://www.weather.gov/tg/siteloc.shtml"

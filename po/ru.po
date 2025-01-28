@@ -1,12 +1,13 @@
 # Russian translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
+# This file is put in the public domain.
+#
 # Lucky <lucky1.data@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2024-12-18 10:00+0300\n"
 "Last-Translator: R0bur <robursw@gmail.com>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -141,31 +142,3 @@ msgstr "Максимум"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Минимум"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Чтобы найти код вашего города, зайдите на:"
-
-#~ msgid "Rising"
-#~ msgstr "Повышение"
-
-#~ msgid "Falling"
-#~ msgstr "Понижение"
-
-#~ msgid "Steady"
-#~ msgstr "Устойчиво"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Настройки прогноза погоды"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "Код Yahoo Forecasts"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "Код Yahoo Forecasts/Индекс США"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, найдите ваш город, и посмотрите на URL"
-
-#~ msgid "Configuration"
-#~ msgstr "Настройка"

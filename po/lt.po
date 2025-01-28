@@ -1,12 +1,13 @@
 # Lithuanian translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+# This file is put in the public domain.
+#
+# Joshas, 2010.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2010-01-28 20:40+0000\n"
 "Last-Translator: Joshas <Unknown>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
@@ -152,31 +153,3 @@ msgstr "Aukštas"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Žemas"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Norėdami rasti savo vietovės kodą, apsilankykite:"
-
-#~ msgid "Rising"
-#~ msgstr "Kyla"
-
-#~ msgid "Falling"
-#~ msgstr "Krinta"
-
-#~ msgid "Steady"
-#~ msgstr "Pastovus"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Orų prognozės konfigūracija"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "Yahoo orų prognozių kodas"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "Yahoo orų prognozių kodas/JAV pašto kodas"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, suraskite savo vietovę ir pažiūrėkite į interneto adresą"
-
-#~ msgid "Configuration"
-#~ msgstr "Konfigūracija"

@@ -1,12 +1,13 @@
 # French translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts module.
+# This file is put in the public domain.
+#
 # batden <batden@orange.fr>, 2009, 2010.
 # 
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2020-07-09 08:37+0200\n"
 "Last-Translator: Philippe Jean Guillaumie <similar@orange.fr>\n"
 "Language-Team: FrenchLanguage: fr\n"
@@ -144,28 +145,3 @@ msgstr "Maximale"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Minimale"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Pour trouver le code de votre région, visitez :"
-
-#~ msgid "Rising"
-#~ msgstr "En hausse"
-
-#~ msgid "Falling"
-#~ msgstr "En baisse"
-
-#~ msgid "Steady"
-#~ msgstr "Stable"
-
-#~ msgid "Forecasts Code/US Zip Code"
-#~ msgstr "Code des prévisions/Code ZIP USA"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, trouvez votre région, et regardez l'URL"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Configuration des prévisions"
-
-#~ msgid "Configuration"
-#~ msgstr "Configuration"

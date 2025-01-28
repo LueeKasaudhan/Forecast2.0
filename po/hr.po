@@ -1,12 +1,13 @@
 # Croatian translation for the Forecasts module.
-# This file is distributed under the same license as the forecasts module.
+# This file is put in the public domain.
+#
 # Miro Glavic <glavicmiro@gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2009-02-12 22:56+0000\n"
 "Last-Translator: Miro Glavic <glavicmiro@gmail.com>\n"
 "Language-Team: Croatian <hr@li.org>\n"
@@ -150,31 +151,3 @@ msgstr "Visok"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Nizak"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Da bi pronašli kod za vaš teritorij, idite na:"
-
-#~ msgid "Rising"
-#~ msgstr "Raste"
-
-#~ msgid "Falling"
-#~ msgstr "Pada"
-
-#~ msgid "Steady"
-#~ msgstr "Mirno"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Forecast Konfiguracija"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "Yahoo Forecasts Kod"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "Yahoo Forecasts Kod/US Zip Kod"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, pronađi svoj teritorij, i pogledaj na URL"
-
-#~ msgid "Configuration"
-#~ msgstr "Konfiguracija"

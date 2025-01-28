@@ -1,12 +1,13 @@
-# Bulgarian translation of the Forecasts module.
-# This file is distributed under the same license as the forecasts module.
+# Bulgarian translation for the Forecasts module.
+# This file is put in the public domain.
+#
 # Viktor Kojouharov <vkojouharov@abv.bg>, 2007-2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2009-09-11 08:42+0000\n"
 "Last-Translator: vlood <vlood.vassilev@gmail.com>\n"
 "Language-Team: Bulgarian\n"
@@ -153,43 +154,3 @@ msgstr "Максимална"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Минимална"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "За да намерите кода на вашият район, отидете на:"
-
-#~ msgid "Rising"
-#~ msgstr "Издигане"
-
-#~ msgid "Falling"
-#~ msgstr "Спад"
-
-#~ msgid "Steady"
-#~ msgstr "Без промяна"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Настройки на Прогнози"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "Код на Yahoo Forecasts"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "(Пощенски) Код на Yahoo Forecasts"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, намерете си района, и вижте адреса на страницата"
-
-#~ msgid "Configuration"
-#~ msgstr "Конфигурация"
-
-#~ msgid "A weather forecast module for Enlightenment"
-#~ msgstr "Модул за време и прогнози на Enlightenment"
-
-#~ msgid "Enlightenment Forecasts Module"
-#~ msgstr "Модул 'Прогнози' на Enlightenment"
-
-#~ msgid "Get your Yahoo Forecasts Code code at:"
-#~ msgstr "Намерете вашият Yahoo Forecasts код на:"
-
-#~ msgid "No date"
-#~ msgstr "Няма дата"

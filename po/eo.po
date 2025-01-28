@@ -1,12 +1,13 @@
-# Esperanto translation of the Forecasts module.
-# This file is distributed under the same license as the forecasts module.
+# Esperanto translation for the Forecasts module.
+# This file is put in the public domain.
+#
 # Olivier <eliovir@nospam.gmail.com>, 2009.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: forecasts\n"
+"Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
-"POT-Creation-Date: 2024-12-16 15:31-0500\n"
+"POT-Creation-Date: 2025-01-28 09:46-0500\n"
 "PO-Revision-Date: 2009-05-11 00:13+0000\n"
 "Last-Translator: Olivier <eliovir@nospam.gmail.com>\n"
 "Language-Team: Esperanto <translation-team-eo@lists.sourceforge.net>\n"
@@ -152,31 +153,3 @@ msgstr "Alta"
 #: src/e_mod_main.c:865
 msgid "Low"
 msgstr "Malalta"
-
-#, fuzzy
-#~ msgid "To find the code, go to:"
-#~ msgstr "Por trovi la kodon por via zono, iru al:"
-
-#~ msgid "Rising"
-#~ msgstr "Sunleviĝo"
-
-#~ msgid "Falling"
-#~ msgstr "Krepusko"
-
-#~ msgid "Steady"
-#~ msgstr "Konstanta"
-
-#~ msgid "Forecasts Configuration"
-#~ msgstr "Agordo de Vetero"
-
-#~ msgid "Yahoo Forecasts Code"
-#~ msgstr "Vetera Kodo de Yahoo"
-
-#~ msgid "Yahoo Forecasts Code/US Zip Code"
-#~ msgstr "Yahoo Forecasts Code/Usona Poŝtkodo"
-
-#~ msgid "%s, find your area, and look at the URL"
-#~ msgstr "%s, trovu vian zonon, kaj rigardu la URL-on"
-
-#~ msgid "Configuration"
-#~ msgstr "Konfiguraĵo"
