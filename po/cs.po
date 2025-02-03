@@ -42,7 +42,7 @@ msgstr "Předpověď počasí"
 #: src/e_mod_config.c:109
 #, c-format
 msgid "%2.0f days"
-msgstr "%2.0f minut"
+msgstr "%2.0f dny"
 
 #: src/e_mod_config.c:112
 msgid "Show Description"
@@ -119,7 +119,7 @@ msgstr "Úhrn srážek:"
 
 #: src/e_mod_main.c:1256
 msgid "Visibility:"
-msgstr "Viditelnost"
+msgstr "Viditelnost:"
 
 #: src/e_mod_main.c:1262
 msgid "Pressure:"
