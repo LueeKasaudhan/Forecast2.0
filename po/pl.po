@@ -20,7 +20,7 @@ msgstr ""
 
 #: src/e_mod_config.c:46
 msgid "Forecasts Settings"
-msgstr " Ustawienia prognozy"
+msgstr "Ustawienia prognozy"
 
 #: src/e_mod_config.c:100
 msgid "Display Settings"
