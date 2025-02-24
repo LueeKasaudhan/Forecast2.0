@@ -1,144 +1,145 @@
 # Malayalam translations for the Forecasts module.
 # This file is put in the public domain.
 #
-# Automatically generated, 2025.
+# Indraneel Rajeevan <https://github.com/indraneel12>, 2025.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2025-01-28 09:46-0500\n"
-"PO-Revision-Date: 2025-01-28 09:46-0500\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2025-02-24 20:46+0530\n"
+"Last-Translator: Indraneel Rajeevan <https://github.com/indraneel12>\n"
 "Language-Team: Malayalam\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.2\n"
 
 #: src/e_mod_config.c:46
 msgid "Forecasts Settings"
-msgstr ""
+msgstr "ഫോർക്കാസ്റ്റ്സ് ക്രമീകരണങ്ങൾ"
 
 #: src/e_mod_config.c:100
 msgid "Display Settings"
-msgstr ""
+msgstr "ഡിസ്പ്ളേ ക്രമീകരണങ്ങൾ"
 
 #: src/e_mod_config.c:101
 msgid "Poll Time"
-msgstr ""
+msgstr "പോൾ സമയം"
 
 #: src/e_mod_config.c:103
 #, c-format
 msgid "%2.0f minutes"
-msgstr ""
+msgstr "%2.0f മിനിറ്റ്"
 
 #: src/e_mod_config.c:106
 msgid "Forecasts days"
-msgstr ""
+msgstr "ഫോർക്കാസ്റ്റ്സ് ദിവസങ്ങൾ"
 
 #: src/e_mod_config.c:108
 #, c-format
 msgid "%2.0f days"
-msgstr ""
+msgstr "%2.0f ദിവസങ്ങൾ"
 
 #: src/e_mod_config.c:111
 msgid "Show Description"
-msgstr ""
+msgstr "വിവരണം കാണിക്കുക"
 
 #: src/e_mod_config.c:113
 msgid "Popup on mouse over"
-msgstr ""
+msgstr "മൌസോവറിൽ പോപ്പപ്പ് ചെയ്യുക"
 
 #: src/e_mod_config.c:117
 msgid "Unit Settings"
-msgstr ""
+msgstr "യൂണിറ്റ് ക്രമീകരണങ്ങൾ"
 
 #: src/e_mod_config.c:119
 msgid "Metric"
-msgstr ""
+msgstr "മെട്രിക്ക്"
 
 #: src/e_mod_config.c:121
 msgid "English"
-msgstr ""
+msgstr "ഇംഗ്ലീഷ്"
 
 #: src/e_mod_config.c:125
 msgid "Weather location"
-msgstr ""
+msgstr "കാലാവസ്ഥയുടെ സ്ഥാനം"
 
 #: src/e_mod_config.c:127
 msgid "City name (empty = local) "
-msgstr ""
+msgstr "നഗരത്തിന്റെ പേര് (ശൂന്യം = പ്രാദേശികം) "
 
 #: src/e_mod_config.c:133
 msgid "Custom location label "
-msgstr ""
+msgstr "ഇഷ്‌ടാനുസൃത ലൊക്കേഷൻ ലേബൽ "
 
 #: src/e_mod_config.c:141
 msgid "Language support"
-msgstr ""
+msgstr "ഭാഷാ പിന്തുണ"
 
 #: src/e_mod_config.c:143
 msgid "Language code (e.g. sk)    "
-msgstr ""
+msgstr "ഭാഷാ കോഡ് (ഉദാ. ml)    "
 
 #: src/e_mod_main.c:168
 msgid "Forecasts"
-msgstr ""
+msgstr "ഫോർക്കാസ്റ്റ്സ്"
 
 #: src/e_mod_main.c:210
 msgid "Settings"
-msgstr ""
+msgstr "ക്രമീകരണങ്ങൾ"
 
 #: src/e_mod_main.c:755 src/e_mod_main.c:757
 #, c-format
 msgid "%s: Current Conditions"
-msgstr ""
+msgstr "%s: നിലവിലെ സാഹചര്യം"
 
 #: src/e_mod_main.c:771
 msgid "Feels Like:"
-msgstr ""
+msgstr "ഇതുപോലെ തോന്നുന്നു:"
 
 #: src/e_mod_main.c:777
 msgid "Wind Chill:"
-msgstr ""
+msgstr "കാറ്റിൻ്റെ തണുപ്പ്:"
 
 #: src/e_mod_main.c:783
 msgid "Wind Speed:"
-msgstr ""
+msgstr "കാറ്റിൻ്റെ വേഗത:"
 
 #: src/e_mod_main.c:789
 msgid "Humidity:"
-msgstr ""
+msgstr "ഈർപ്പം:"
 
 #: src/e_mod_main.c:795
 msgid "Precipitation:"
-msgstr ""
+msgstr "മഴ:"
 
 #: src/e_mod_main.c:801
 msgid "Visibility:"
-msgstr ""
+msgstr "ദൃശ്യപരത:"
 
 #: src/e_mod_main.c:807
 msgid "Pressure:"
-msgstr ""
+msgstr "സമ്മർദ്ദം:"
 
 #: src/e_mod_main.c:816
 msgid "Sunrise / Sunset: "
-msgstr ""
+msgstr "സൂര്യോദയം / സൂര്യാസ്തമയം: "
 
 #: src/e_mod_main.c:843
 msgid "Today"
-msgstr ""
+msgstr "ഇന്ന്"
 
 #: src/e_mod_main.c:845
 msgid "Tomorrow"
-msgstr ""
+msgstr "നാളെ"
 
 #: src/e_mod_main.c:854
 msgid "High"
-msgstr ""
+msgstr "ഉയർന്നത്"
 
 #: src/e_mod_main.c:865
 msgid "Low"
-msgstr ""
+msgstr "താഴ്ന്നത്"
