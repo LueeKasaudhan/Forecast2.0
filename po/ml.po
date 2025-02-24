@@ -1,4 +1,4 @@
-# Malayalam translations for forecast package.
+# Malayalam translations for the Forecasts module.
 # This file is put in the public domain.
 #
 # Automatically generated, 2025.
