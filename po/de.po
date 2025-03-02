@@ -8,18 +8,17 @@ msgstr ""
 "Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2025-01-28 09:46-0500\n"
-"PO-Revision-Date: 2010-07-16 11:19+0100\n"
-"Last-Translator: AlexAnteMachina <alexander-jung@t-online.de>\n"
+"PO-Revision-Date: 2025-03-02 13:48+0100\n"
+"Last-Translator: Christian Becker (xpistian) <xpistianbecker@gmail.com>\n"
 "Language-Team: German <de@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2009-11-12 04:51+0000\n"
-"X-Generator: Launchpad (build Unknown)\n"
+"X-Generator: Poedit 3.5\n"
 
 #: src/e_mod_config.c:46
-#, fuzzy
 msgid "Forecasts Settings"
 msgstr "Wettervorhersage-Einstellungen"
 
@@ -37,14 +36,13 @@ msgid "%2.0f minutes"
 msgstr "%2.0f Minuten"
 
 #: src/e_mod_config.c:106
-#, fuzzy
 msgid "Forecasts days"
 msgstr "Wettervorhersagen Tage"
 
 #: src/e_mod_config.c:108
-#, fuzzy, c-format
+#, c-format
 msgid "%2.0f days"
-msgstr "%2.0f Minuten"
+msgstr "%2.0f Tage"
 
 #: src/e_mod_config.c:111
 msgid "Show Description"
@@ -67,9 +65,8 @@ msgid "English"
 msgstr "Englisch"
 
 #: src/e_mod_config.c:125
-#, fuzzy
 msgid "Weather location"
-msgstr "Wetter für Ort"
+msgstr "Ort für Wetter"
 
 #: src/e_mod_config.c:127
 msgid "City name (empty = local) "
@@ -92,7 +89,6 @@ msgid "Forecasts"
 msgstr "Vorhersagen"
 
 #: src/e_mod_main.c:210
-#, fuzzy
 msgid "Settings"
 msgstr "Einstellungen"
 
@@ -106,38 +102,32 @@ msgid "Feels Like:"
 msgstr "Gefühlt:"
 
 #: src/e_mod_main.c:777
-#, fuzzy
 msgid "Wind Chill:"
 msgstr "Gefühlte Temperatur (Windchill)"
 
 #: src/e_mod_main.c:783
-#, fuzzy
 msgid "Wind Speed:"
 msgstr "Windgeschwindigkeit"
 
 #: src/e_mod_main.c:789
-#, fuzzy
 msgid "Humidity:"
-msgstr "Luftfeuchtigkeit"
+msgstr "Luftfeuchtigkeit:"
 
 #: src/e_mod_main.c:795
 msgid "Precipitation:"
 msgstr "Niederschlag:"
 
 #: src/e_mod_main.c:801
-#, fuzzy
 msgid "Visibility:"
 msgstr "Sicht:"
 
 #: src/e_mod_main.c:807
-#, fuzzy
 msgid "Pressure:"
 msgstr "Luftdruck:"
 
 #: src/e_mod_main.c:816
-#, fuzzy
 msgid "Sunrise / Sunset: "
-msgstr "Sonnenaufgang / -untergang"
+msgstr "Sonnenaufgang / -untergang "
 
 #: src/e_mod_main.c:843
 msgid "Today"
@@ -153,4 +143,4 @@ msgstr "Hoch"
 
 #: src/e_mod_main.c:865
 msgid "Low"
-msgstr "Niedrig"
+msgstr "Tief"
