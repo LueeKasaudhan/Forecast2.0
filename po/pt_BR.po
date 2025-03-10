@@ -8,18 +8,18 @@ msgstr ""
 "Project-Id-Version: forecast\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2025-01-28 09:46-0500\n"
-"PO-Revision-Date: 2009-01-10 01:58+0000\n"
+"PO-Revision-Date: 2025-03-10 17:44-0300\n"
 "Last-Translator: Enrico Nicoletto <liverig@gmail.com>\n"
 "Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0.1\n"
 
 #: src/e_mod_config.c:46
-#, fuzzy
 msgid "Forecasts Settings"
-msgstr "Tempo"
+msgstr "Configurações de previsão"
 
 #: src/e_mod_config.c:100
 msgid "Display Settings"
@@ -35,14 +35,13 @@ msgid "%2.0f minutes"
 msgstr "%2.0f minutos"
 
 #: src/e_mod_config.c:106
-#, fuzzy
 msgid "Forecasts days"
-msgstr "Tempo"
+msgstr "Dias de previsão"
 
 #: src/e_mod_config.c:108
-#, fuzzy, c-format
+#, c-format
 msgid "%2.0f days"
-msgstr "%2.0f minutos"
+msgstr "%2.0f dias"
 
 #: src/e_mod_config.c:111
 msgid "Show Description"
@@ -66,83 +65,76 @@ msgstr "Inglês"
 
 #: src/e_mod_config.c:125
 msgid "Weather location"
-msgstr ""
+msgstr "Localização para tempo"
 
 #: src/e_mod_config.c:127
 msgid "City name (empty = local) "
-msgstr ""
+msgstr "Nome da cidade (vazio = local) "
 
 #: src/e_mod_config.c:133
 msgid "Custom location label "
-msgstr ""
+msgstr "Etiqueta de localização customizada "
 
 #: src/e_mod_config.c:141
 msgid "Language support"
-msgstr ""
+msgstr "Suporte de idioma"
 
 #: src/e_mod_config.c:143
 msgid "Language code (e.g. sk)    "
-msgstr ""
+msgstr "Código do idioma (e.g. pt_BR) "
 
 #: src/e_mod_main.c:168
 msgid "Forecasts"
-msgstr "Tempo"
+msgstr "Previsões"
 
 #: src/e_mod_main.c:210
-#, fuzzy
 msgid "Settings"
-msgstr "Configurações de unidade"
+msgstr "Configurações"
 
 #: src/e_mod_main.c:755 src/e_mod_main.c:757
 #, c-format
 msgid "%s: Current Conditions"
-msgstr ""
+msgstr "%s: condições atuais"
 
 #: src/e_mod_main.c:771
 msgid "Feels Like:"
-msgstr ""
+msgstr "Sensação térmica:"
 
 #: src/e_mod_main.c:777
-#, fuzzy
 msgid "Wind Chill:"
-msgstr "Frente fria"
+msgstr "Resfriamento eólico:"
 
 #: src/e_mod_main.c:783
-#, fuzzy
 msgid "Wind Speed:"
-msgstr "Velocidade do Vento"
+msgstr "Velocidade do Vento:"
 
 #: src/e_mod_main.c:789
-#, fuzzy
 msgid "Humidity:"
-msgstr "Umidade"
+msgstr "Umidade:"
 
 #: src/e_mod_main.c:795
 msgid "Precipitation:"
-msgstr ""
+msgstr "Precipitação:"
 
 #: src/e_mod_main.c:801
-#, fuzzy
 msgid "Visibility:"
-msgstr "Visibilidade"
+msgstr "Visibilidade:"
 
 #: src/e_mod_main.c:807
-#, fuzzy
 msgid "Pressure:"
-msgstr "Pressão"
+msgstr "Pressão:"
 
 #: src/e_mod_main.c:816
-#, fuzzy
 msgid "Sunrise / Sunset: "
-msgstr "ao amanhecer / ao anoitecer"
+msgstr "Nascer / Pôr do sol: "
 
 #: src/e_mod_main.c:843
 msgid "Today"
-msgstr ""
+msgstr "Hoje"
 
 #: src/e_mod_main.c:845
 msgid "Tomorrow"
-msgstr ""
+msgstr "Amanhã"
 
 #: src/e_mod_main.c:854
 msgid "High"
