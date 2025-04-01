@@ -68,7 +68,7 @@ msgstr "मौसम का स्थान"
 
 #: src/e_mod_config.c:127
 msgid "City name (empty = local) "
-msgstr "शहर का नाम"
+msgstr "शहर का नाम (खाली = स्थानीय(local))"
 
 #: src/e_mod_config.c:133
 msgid "Custom location label "
@@ -93,7 +93,7 @@ msgstr "सेटिंग्स"
 #: src/e_mod_main.c:755 src/e_mod_main.c:757
 #, c-format
 msgid "%s: Current Conditions"
-msgstr "वर्तमान स्थिति"
+msgstr "%s: वर्तमान स्थिति"
 
 #: src/e_mod_main.c:771
 msgid "Feels Like:"
